@@ -1,4 +1,4 @@
-# Hello Developers I'm IYYAPPAN
+# Hello Developers I'm Iyyappan
 🔭 I’m currently working on AI-driven applications, interactive web platforms, and scalable software solutions<br><br>👯 I’m looking to collaborate on projects involving media platforms, cloud-based systems, and user-focused application design<br><br>🤝 I’m looking for help with building production-grade systems, optimizing performance, and deploying applications at scale<br><br>🌱 I’m currently learning distributed systems, backend scalability, and AI integration for large-scale consumer platforms<br><br>💬 Ask me about full-stack development, AI tools, system design basics, and building user-centric applications<br><br>⚡ Fun fact: I enjoy analyzing how large digital platforms deliver seamless experiences to millions of users
 
 

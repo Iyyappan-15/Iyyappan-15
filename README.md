@@ -12,6 +12,7 @@
 [![](https://visitcount.itsvg.in/api?id=Iyyappan-15&icon=0&color=0)](https://visitcount.itsvg.in)
 (![LeetCode Stats](https://leetcard.jacoblin.cool/iyyappan15?theme=dark&font=Marcellus&ext=contest)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iyyappan-15&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iyyappan-15&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=iyyappan-15&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Iyyappan-15&theme=dark&hide_border=true)
+

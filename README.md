@@ -15,8 +15,9 @@
 
 <!-- ===================== GITHUB STATS ===================== -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iyyappan-15&theme=radical&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Iyyappan-15&theme=radical&hide_border=true&format=png" width="48%" />
 </p>
+
 
 <!-- ===================== ACTIVITY GRAPH ===================== -->
 <p align="center">

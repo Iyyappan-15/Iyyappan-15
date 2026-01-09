@@ -17,5 +17,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Iyyappan-15&theme=dark&hide_border=true)
 
-![CodeChef Stats](https://cc-stats.vercel.app/api?username=iyyappan15&theme=dark)
+[![CodeChef](https://img.shields.io/badge/CodeChef-iyyappan15-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/iyyappan15)
+
 

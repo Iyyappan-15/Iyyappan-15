@@ -13,6 +13,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/iyyappan15?theme=dark&font=Marcellus&ext=heatmap)
 
 ## 📊 Competitive Programming
+[!iyyappan15 GitHub stats](https://github-readme-stats.verce].app/api?username=Iyyappan-15&theme=dark&show_icons=true&&hide=issues,contribs)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Iyyappan-15&theme=dark&hide_border=true)]
 

@@ -14,9 +14,8 @@
 
 
 <!-- ===================== GITHUB STATS ===================== -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Iyyappan-15&theme=radical&hide_border=true&format=png" width="48%" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Iyyappan-15&theme=radical&hide_border=true)
+
 
 
 <!-- ===================== ACTIVITY GRAPH ===================== -->

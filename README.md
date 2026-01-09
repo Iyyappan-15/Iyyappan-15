@@ -14,7 +14,10 @@
 
 
 <!-- ===================== GITHUB STATS ===================== -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Iyyappan-15&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Iyyappan-15&theme=radical&hide_border=true&v=2" width="48%" />
+</p>
+
 
 
 

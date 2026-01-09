@@ -13,7 +13,8 @@
 [![](https://visitcount.itsvg.in/api?id=Iyyappan-15&icon=0&color=0)](https://visitcount.itsvg.in)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/iyyappan15?theme=dark&font=Marcellus&ext=contest)
 
+## 📊 Competitive Programming
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Iyyappan-15&theme=dark&hide_border=true)
 
-
-
+![CodeChef Stats](https://cc-stats.vercel.app/api?username=iyyappan15&theme=dark)

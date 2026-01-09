@@ -15,9 +15,9 @@
 
 <!-- ===================== GITHUB STATS ===================== -->
 <p align="center">
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Iyyappan-15&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Iyyappan-15&theme=radical&show_icons=true&hide_border=true" width="48%" />
 </p>
+
 <!-- ===================== ACTIVITY GRAPH ===================== -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iyyappan-15&bg_color=0d1117&color=00f7ff&line=7b2cbf&point=ffffff&hide_border=true" />

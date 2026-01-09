@@ -14,7 +14,7 @@
 
 ## 📊 Competitive Programming
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Iyyappan-15&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Iyyappan-15&theme=dark&hide_border=true)]
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-iyyappan15-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/iyyappan15)
 

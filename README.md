@@ -13,9 +13,10 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/iyyappan15?theme=dark&font=Marcellus&ext=heatmap)
 
 ## 📊 Competitive Programming
-[!iyyappan15 GitHub stats](https://github-readme-stats.verce].app/api?username=Iyyappan-15&theme=dark&show_icons=true&&hide=issues,contribs)
+[![Iyyappan15 GitHub stats](https://github-readme-stats.vercel.app/api?username=Iyyappan-15&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/Iyyappan-15)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Iyyappan-15&theme=dark&hide_border=true)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=Iyyappan-15&theme=dark&hide_border=true)](https://github.com/Iyyappan-15)
+
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-iyyappan15-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/iyyappan15)
 

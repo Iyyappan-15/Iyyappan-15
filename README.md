@@ -3,8 +3,11 @@
 
 
 ## 🌐 Socials:
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/iyyappan15)
-[<img width="96" height="96" src="https://img.icons8.com/color/96/gmail-new.png" alt="gmail-new"/>](mailto:your.email@example.com?subject=Hello%20from%20GitHub)
+[<img width="80" height="80" src="https://img.icons8.com/color/96/linkedin.png" alt="linkedin"/> />](https://www.linkedin.com/in/iyyappan15)
+<a href="mailto:your.email@example.com?subject=Hello%20from%20GitHub">
+  <img src="https://img.icons8.com/color/96/gmail-new.png" width="80" height="80" alt="Gmail"/>
+</a>
+
 
 
 

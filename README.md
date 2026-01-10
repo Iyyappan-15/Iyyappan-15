@@ -13,9 +13,8 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/iyyappan15?theme=dark&font=Marcellus&ext=heatmap)
 
 
-<!-- ===================== GITHUB STATS ===================== -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Iyyappan-15&theme=radical&hide_border=true&v=2" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Iyyappan-15&theme=radical&hide_border=true" width="48%" />
 </p>
 
 

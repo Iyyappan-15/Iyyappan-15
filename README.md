@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[<img width="80" height="80" src="https://img.icons8.com/color/96/linkedin.png" alt="linkedin"/> ](https://www.linkedin.com/in/iyyappan15)
+[<img width="60" height="60" src="https://img.icons8.com/color/96/linkedin.png" alt="linkedin"/> ](https://www.linkedin.com/in/iyyappan15)
 [<img src="https://img.icons8.com/color/96/gmail-new.png" width="80" height="80" alt="Gmail"/>](mailto:your.iyyappan200509@example.com?subject=Hello%20from%20GitHub&body=Hi%20I%20found%20your%20GitHub%20profile%20and%20wanted%20to%20connect!)
 
 

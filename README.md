@@ -12,12 +12,6 @@
 [![](https://visitcount.itsvg.in/api?id=Iyyappan-15&icon=0&color=0)](https://visitcount.itsvg.in)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/iyyappan15?theme=dark&font=Marcellus&ext=heatmap)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Iyyappan-15&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-
-
 <!-- ===================== ACTIVITY GRAPH ===================== -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iyyappan-15&bg_color=0d1117&color=00f7ff&line=7b2cbf&point=ffffff&hide_border=true" />

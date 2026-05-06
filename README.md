@@ -1,10 +1,15 @@
 # Hello Developers I'm Iyyappan
 🔭 I’m currently working on AI-driven applications, interactive web platforms, and scalable software solutions<br><br>👯 I’m looking to collaborate on projects involving media platforms, cloud-based systems, and user-focused application design<br><br>🤝 I’m looking for help with building production-grade systems, optimizing performance, and deploying applications at scale<br><br>🌱 I’m currently learning distributed systems, backend scalability, and AI integration for large-scale consumer platforms<br><br>💬 Ask me about full-stack development, AI tools, system design basics, and building user-centric applications<br><br>⚡ Fun fact: I enjoy analyzing how large digital platforms deliver seamless experiences to millions of users
 
-
 ## 🌐 Socials:
-[<img width="60" height="60" src="https://img.icons8.com/color/96/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/iyyappan15)
-[<img src="https://img.icons8.com/color/96/gmail-new.png" width="60" height="60" alt="Gmail"/>](mailto:your.iyyappan200509@example.com?subject=Hello%20from%20GitHub&body=Hi%20I%20found%20your%20GitHub%20profile%20and%20wanted%20to%20connect!)
+<p align="left">
+  <a href="https://www.linkedin.com/in/iyyappan15">
+    <img width="60" height="60" src="https://img.icons8.com/color/96/linkedin.png" alt="linkedin"/>
+  </a>
+  <a href="mailto:your.iyyappan200509@example.com?subject=Hello%20from%20GitHub&body=Hi%20I%20found%20your%20GitHub%20profile%20and%20wanted%20to%20connect!">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="60" height="60" alt="Gmail"/>
+  </a>
+</p>
 
 
 

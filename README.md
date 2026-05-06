@@ -7,7 +7,6 @@
 <a href="https://www.linkedin.com/in/iyyappan15"><img src="https://img.icons8.com/color/96/linkedin.png" width="60"/></a><a href="mailto:your.iyyappan200509@example.com?subject=Hello%20from%20GitHub&body=Hi%20I%20found%20your%20GitHub%20profile%20and%20wanted%20to%20connect!"><img src="https://img.icons8.com/color/96/gmail-new.png" width="60"/></a>
 </p>
 
-
 <p align="left">
   <img src="https://img.icons8.com/arcade/64/html-5.png" width="60"/>
   <img src="https://img.icons8.com/3d-sugary/100/java.png" width="60"/>
@@ -21,6 +20,7 @@
   <img src="https://img.icons8.com/3d-fluency/94/github.png" width="60"/>
 </p>
 <br>
+
 [![](https://visitcount.itsvg.in/api?id=Iyyappan-15&icon=0&color=0)](https://visitcount.itsvg.in)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/iyyappan15?theme=dark&font=Marcellus&ext=heatmap)
 

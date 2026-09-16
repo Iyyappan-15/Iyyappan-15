@@ -27,8 +27,15 @@
 
 <!-- ===================== ACTIVITY GRAPH ===================== -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iyyappan-15&bg_color=0d1117&color=00f7ff&line=7b2cbf&point=ffffff&hide_border=true" alt="Iyyappan-15 GitHub Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Iyyappan-15&bg_color=0d1117&color=00f7ff&line=7b2cbf&point=ffffff&hide_border=true"
+    alt="Iyyappan-15 GitHub Activity Graph"
+  />
 </p>
-[![CodeChef](https://img.shields.io/badge/CodeChef-iyyappan15-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/iyyappan15)
+
+<br>
+
+
+![CodeChef](https://img.shields.io/badge/CodeChef-iyyappan15-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/iyyappan15)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
